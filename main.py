@@ -17,4 +17,4 @@ from os import chdir, path
 chdir(path.normpath(path.dirname(__file__)))
 
 from susy import testar_tudo, teste_unico
-testar_tudo('C:/Users/aluno/Desktop/meuprograma.py', 4)
+testar_tudo('C:/Users/aluno/Desktop/meuprograma.py', 1)
