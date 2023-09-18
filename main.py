@@ -1,5 +1,5 @@
 """ Simulador de susy kk"""
-# Primeiramente, certifique-se de que o arquivo susy.py esteja na mesma pasta que main.py
+# Primeiramente, certifique-se de que o arquivo susy.py e main.py estejam na mesma pasta que o seu programa 
 #
 # Substitua 'meuprograma.py' com o nome do seu programa Ex: 'lab04.py'
 #
